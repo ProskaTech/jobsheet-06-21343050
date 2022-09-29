@@ -1,5 +1,10 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## Created by 21343050_Heri Ramadhan
+  Pada Pertemuan 6 ini kita diperkenalkan dengan Java Decision Making
+  
+Ada 4 decision making pada java yaitu
+1. If > yang berarti melakukan eksekusi bernilai benar
+2. If Else > yang berarti melakukan eksekusi bernilai benar dan salah
+3. Else if > yang berarti melakukan eksekusi dari awal sampai akhir sampai mana logika ditentukan
+4. Switch > yang berarti ,elakukan eksekusi dari awal sampai akhir hampir sama spt else if, tapi bedanya pada switch logika hanya bisa dilakukan dengan angka bulat atau karakter
+
+## Penjelasan Program Latihan
